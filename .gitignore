@@ -1,0 +1,31 @@
+# Dependency directories
+node_modules/
+
+# Environment variables file
+.env
+
+# Log files
+logs/
+*.log
+npm-debug.log*
+
+# User-specific files
+.npm
+.npmrc
+.yarn
+.yarnrc
+.pnpm-lock.yaml
+.pnpm-store/
+
+# Compiled output
+dist/
+build/
+out/
+
+# Local development files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
